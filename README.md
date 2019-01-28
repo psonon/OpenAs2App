@@ -3,7 +3,7 @@ The OpenAS2 application enables you to transmit and receive AS2 messages with ED
 
 # Development
 There is a pom.xml in the Server folder to compile and create the jar and build the distribution package using Maven
-The current version of the application is extracted from the POM and instered into the MANIFEST.MF at build time.
+The current version of the application is extracted from the POM and inserted into the MANIFEST.MF at build time.
 More detailed information is available in the DeveloperGuide.odt in the docs folder in Github
 
 ## Build
